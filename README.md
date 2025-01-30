@@ -140,9 +140,8 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
   <td align="center" style="border: none;">
-  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="50" height="50" alt="PHP"/>
-  <br>PHP
-</td>
+  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="50" height="50" alt="PHP"/>PHP
+   </td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/><br>.NET
       </td>
