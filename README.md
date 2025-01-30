@@ -251,17 +251,25 @@
 <h3>
 <div align="center">
 
-### <strong align="center">🚀 About Me</strong>
+<p style="text-align: center;"><span style="font-weight: lighter;">🚀 About Me</span></p>
 
-- 🔭 I’m currently working on **Smart Home Management Application** *(Un projet d'automatisation de maison intelligente utilisant Arduino, ESP32 et les technologies IoT.)*
-- 🌱 I’m currently learning **Web & Mobile Development (React.js, Vue.js, GSAP)**
-- 👯 I’m looking to collaborate on **IoT and Embedded Systems Projects** *(Intéressée par les solutions intelligentes, l'automatisation et l'intégration de l'IA.)*
-- 🤝 I’m looking for help with **Advanced AI & Machine Learning for IoT** *(Explorer comment l'IA peut améliorer l'automatisation des maisons intelligentes et des systèmes embarqués.)*
-- 👨‍💻 All of my projects are available at [Portfolio](https://sirinechaabi-portfolio.infinityfreeapp.com/?i=1)
-- 💬 Ask me about **JavaScript, React, Vue.js, GSAP**
-- 📫 How to reach me **sirinechaabi914@gmail.com**
+<p>🔭 I’m currently working on Smart Home Management Application *(Un projet d'automatisation de maison intelligente utilisant Arduino, ESP32 et les technologies IoT.)</p>
+
+<p>🌱 I’m currently learning Web & Mobile Development (React.js, Vue.js, GSAP)</p>
+
+<p>👯 I’m looking to collaborate on IoT and Embedded Systems Projects *(Intéressée par les solutions intelligentes, l'automatisation et l'intégration de l'IA.)*</p>
+
+<p>🤝 I’m looking for help with Advanced AI & Machine Learning for IoT *(Explorer comment l'IA peut améliorer l'automatisation des maisons intelligentes et des systèmes embarqués.)*</p>
+
+<p>👨‍💻 All of my projects are available at <a href="https://sirinechaabi-portfolio.infinityfreeapp.com/?i=1">Portfolio</a></p>
+
+<p>💬 Ask me about JavaScript, React, Vue.js, GSAP</p>
+
+<p>📫 How to reach me: <a href="mailto:sirinechaabi914@gmail.com">sirinechaabi914@gmail.com</a></p>
 
 ---
+
+
 
 <p align="center">
   <p align="center">
