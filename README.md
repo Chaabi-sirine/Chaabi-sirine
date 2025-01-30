@@ -139,9 +139,10 @@
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="50" height="50" alt="PHP"/><br>PHP
-      </td>    
+  <td align="center" style="border: none;">
+  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="50" height="50" alt="PHP"/>
+  <br>PHP
+</td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/><br>.NET
       </td>
@@ -271,7 +272,7 @@
     <h4>If you use my github profile, you can help by buying me a coffee ☕️ 😀</h4>
 </p>
 <p align="center">
-	<a href='https://ko-fi.com/codeoz' target='_blank'><img height='35' style='border:0px;height:46px;'       src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+	<a href='https://ko-fi.com/codeoz' target='_blank'><img height='35' style='border:0px;height:46px;'src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </p>
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs
 <h3>
