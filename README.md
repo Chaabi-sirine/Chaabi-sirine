@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
- Engineer student STM32 | ESP32 | ESP8266 | Arduino | Raspberry Pi | ARM | C | C++ | Embedded C | Python | IOT </p>
+Embedded Software Engineering Student | AI & Robotics Enthusiast </p>
 
 <div align="center">
 <table>
