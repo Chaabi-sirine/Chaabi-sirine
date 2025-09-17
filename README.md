@@ -73,28 +73,6 @@ Embedded Software Engineering Student | AI & Robotics Enthusiast </p>
         </a>
         <br>Next.js
       </td>
-      <td align="center" style="border: none;">
-        <a href="https://threejs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=threejs" width="50" height="50" alt="three.js"/>
-        </a>
-        <br>three.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
@@ -171,12 +149,6 @@ Embedded Software Engineering Student | AI & Robotics Enthusiast </p>
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="50" height="50"/><br>Firebase
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="50" height="50"/><br>Supabase
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="50" height="50"/><br>GraphQl
       </td>
     </tr>
   </tbody>
